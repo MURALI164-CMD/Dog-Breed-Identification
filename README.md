@@ -8,7 +8,7 @@ Support: Dog-Breed-Identification-using-CNN-with-Keras has a low active ecosyste
 Quality: Dog-Breed-Identification-using-CNN-with-Keras has no bugs reported.
 Security: Dog-Breed-Identification-using-CNN-with-Keras has no vulnerabilities reported, and its dependent libraries have no 
 vulnerabilities reported.
-License: Dog-Breed-Identification-using-CNN-with-Keras does not have a standard license declared.
+License: Dog-Breed-Identification-using-CNN-with-Keras does not have a standard license declared.   
 Re-use: Dog-Breed-Identification-using-CNN-with-Keras releases are not available. You will need to build from source code and 
 install.
 
